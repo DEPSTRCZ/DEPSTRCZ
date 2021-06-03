@@ -1,9 +1,0 @@
-Jsem Depster? 
-.
-.
-.
-.
-.
-.
-.
-*Asi*
