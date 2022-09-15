@@ -29,11 +29,11 @@
 
   <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ItzDepstRT"><img src="https://github-readme-stats.vercel.app/api?username=ItzDepstRT&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="ItzDepstRT's GitHub stats" /></a>
+<a href="http://www.github.com/DEPSTRCZ"><img src="https://github-readme-stats.vercel.app/api?username=DEPSTRCZ&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="DEPSTRCZ's GitHub stats" /></a>
 
   <b>My Top Languages</b>
   
-<a href="https://github.com/ItzDepstRT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzDepstRT&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/DEPSTRCZ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEPSTRCZ&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
