@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
 👋Hello im DEPSTR - beginer developer
 ================================================================================================================================
 ###### Daily stuff i enjoy
