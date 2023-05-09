@@ -3,8 +3,10 @@
 ================================================================================================================================
 ###### Daily stuff i enjoy
 - Programming
-- Server Admin
+- Taking care of servers
+- Discord Bot Developing
 - Skripting (SkriptLang)
+- Exploring and watching things around Discord
 
  ### Skills
 >  ###### Operation Systems
@@ -44,9 +46,10 @@
 
 <a href="http://www.github.com/DEPSTRCZ"><img src="https://github-readme-stats.vercel.app/api?username=DEPSTRCZ&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="DEPSTRCZ's GitHub stats" /></a>
 
+
   <b>My Top Languages</b>
   
-<a href="https://github.com/DEPSTRCZ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEPSTRCZ&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/DEPSTRCZ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEPSTRCZ&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&langs_count=10&locale=en&layout=donut&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
