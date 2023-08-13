@@ -8,7 +8,7 @@
 - Skripting (SkriptLang)
 
 
-> ###### Stack of Tech, Tools & Languages
+> ###### Languages
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="TypeScript"/></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
@@ -19,7 +19,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 </p>
 
-> ###### Stack of Tech, Tools & Languages
+> ###### Stack of Tech and Tools 
 <p align="left">
 <a href="https://cloudflare.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/>
 <a href="https://gitlab.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
@@ -35,7 +35,7 @@
 
 <a href="https://github.com/DEPSTRCZ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEPSTRCZ&theme=blue-green&langs_count=10&title_color=10b981&text_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&layout=donut" alt="Top Languages" /></a>
 </p>
-** *TypeScript/JS is my TOP language but all repos are private.**
+***TypeScript/JS is my TOP language but all repos are private.**
 
 ### Support Me
 
