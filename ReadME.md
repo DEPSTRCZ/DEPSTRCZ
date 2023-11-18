@@ -29,11 +29,11 @@
 
   <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DEPSTRCZ"><img src="https://github-readme-stats.vercel.app/api?username=DEPSTRCZ&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="DEPSTRCZ's GitHub stats" /></a>
+<a href="http://www.github.com/DEPSTRCZ"><img src="https://github-readme-stats-rouge-xi-22.vercel.app/api?username=DEPSTRCZ&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="DEPSTRCZ's GitHub stats" /></a>
 
 
 
-<a href="https://github.com/DEPSTRCZ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEPSTRCZ&theme=blue-green&langs_count=10&title_color=10b981&text_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&layout=donut" alt="Top Languages" /></a>
+<a href="https://github.com/DEPSTRCZ" align="left"><img src="https://github-readme-stats-rouge-xi-22.vercel.app/api/top-langs/?username=DEPSTRCZ&theme=blue-green&langs_count=10&title_color=10b981&text_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&layout=donut" alt="Top Languages" /></a>
 </p>
 *TypeScript/JS is my TOP language but all repos are private.
 
