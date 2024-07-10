@@ -19,6 +19,7 @@ IT student from the Czech Republic. TypeScript lover, specializing in backends a
 <p align="left">
 <a href="https://cloudflare.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 <a href="https://git.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code"></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=whit" alt="MongoDB"></a>
@@ -33,6 +34,7 @@ IT student from the Czech Republic. TypeScript lover, specializing in backends a
 
 
 <a href="https://github.com/DEPSTRCZ" align="left"><img src="https://github-readme-stats-rouge-xi-22.vercel.app/api/top-langs/?username=DEPSTRCZ&theme=blue-green&langs_count=10&title_color=10b981&text_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&layout=donut" alt="Top Languages" /></a>
+> Most used languages, not languages that i activly use and do stuff in. The languages that i know are listed at the top.
 </p>
 
 ### Support Me
